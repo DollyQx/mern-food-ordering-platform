@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "177889048134",
+    "project_id": "zomoggy-app",
+    "storage_bucket": "zomoggy-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177889048134:android:ebb2dd8a88b3e015507c47",
+        "android_client_info": {
+          "package_name": "com.Bakery.zomoggy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "YOUR_API_KEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

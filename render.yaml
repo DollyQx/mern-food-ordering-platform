@@ -1,0 +1,11 @@
+services:
+  - type: web
+    name: zomoggy-server
+    env: node
+    rootCommand: cd server
+    buildCommand: npm install && npm run build
+    startCommand: npm start
+    envVars:
+      - key: NODE_ENV
+        value: production
+    plan: free

@@ -1,0 +1,29 @@
+# Dependencies
+node_modules/
+.npm
+
+# Builds
+dist/
+build/
+.next/
+server/dist/
+zomoggyiya/build/
+zomoggyiya/app/build/
+
+# Environments
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Android / Gradle (zomoggyiya)
+zomoggyiya/.gradle/
+zomoggyiya/.idea/
+zomoggyiya/local.properties
+*.iml
+
+# IDE / OS
+.DS_Store
+Thumbs.db
+.vscode/
