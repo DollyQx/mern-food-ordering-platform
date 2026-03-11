@@ -8,6 +8,17 @@ Zomoggy is a full-stack, scalable MERN food ordering and franchise management pl
 - `server`: Node.js/Express Backend REST API featuring JWT authentication, role-based access, image edge-delivery (Cloudinary), payment processing, and Firebase integration.
 - `zomoggyiya`: Android App native client built to interact with the Zomoggy backend natively.
 
+## 📸 Screenshots
+
+<div align="center">
+  <img src="assets/screenshots/home.png" alt="Home Page" width="45%" style="margin: 5px;" />
+  <img src="assets/screenshots/menu.png" alt="Food Menu" width="45%" style="margin: 5px;" />
+  <img src="assets/screenshots/customer-order-status.png" alt="Customer Order Status" width="45%" style="margin: 5px;" />
+  <img src="assets/screenshots/admin.png" alt="Admin Dashboard" width="45%" style="margin: 5px;" />
+  <img src="assets/screenshots/admin-menu-management.png" alt="Admin Menu Management" width="45%" style="margin: 5px;" />
+  <img src="assets/screenshots/admin-settings.png" alt="Admin Settings" width="45%" style="margin: 5px;" />
+</div>
+
 ## ⚙️ Features
 - **Multi-Role Dashboards:** Separate panels for Admin, Franchise, and Customer.
 - **Real-Time Ordering:** Fast order creation and party-hall booking functionalities.
