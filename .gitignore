@@ -23,6 +23,17 @@ zomoggyiya/.idea/
 zomoggyiya/local.properties
 *.iml
 
+# Secrets & Credentials
+service-account.json
+server/service-account.json
+*.pem
+*.key
+*.keystore
+
+# Release Bundles & Binaries
+*.aab
+*.apk
+
 # IDE / OS
 .DS_Store
 Thumbs.db
